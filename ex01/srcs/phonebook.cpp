@@ -6,11 +6,11 @@
 /*   By: jchauvet <jchauvet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/12 09:10:01 by jchauvet          #+#    #+#             */
-/*   Updated: 2022/07/13 08:03:29 by jchauvet         ###   ########.fr       */
+/*   Updated: 2022/07/20 08:02:59 by jchauvet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/phonebook.hpp"
+#include "phonebook.hpp"
 
 Phonebook::Phonebook()
 : _index(0)

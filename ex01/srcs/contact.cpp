@@ -6,11 +6,11 @@
 /*   By: jchauvet <jchauvet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/12 09:35:07 by jchauvet          #+#    #+#             */
-/*   Updated: 2022/07/13 14:43:23 by jchauvet         ###   ########.fr       */
+/*   Updated: 2022/07/20 08:02:53 by jchauvet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/contact.hpp"
+#include "contact.hpp"
 
 Contact::Contact()
 {
